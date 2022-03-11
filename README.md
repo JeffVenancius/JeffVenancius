@@ -8,4 +8,4 @@ I've started to code for a game on the Godot Engine and fell in love with coding
 - 📫 How to reach me: jefferson.venancius@gmail.com
 - ⚡ Fun fact: Used to write for Proibido Ler - a geek blog.
 
-Also TheCowOhBoy (where I mostly go about when doing videoo games.)
+Also TheCowOhBoy (where I mostly go about when doing video games.)
